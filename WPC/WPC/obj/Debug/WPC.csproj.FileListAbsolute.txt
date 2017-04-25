@@ -1,0 +1,12 @@
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\bin\Debug\WPC.exe.config
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\bin\Debug\WPC.mdf
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\bin\Debug\WPC_log.ldf
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\bin\Debug\WPC.exe
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\bin\Debug\WPC.pdb
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\obj\Debug\WPC.Form1.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\obj\Debug\WPC.Properties.Resources.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\obj\Debug\WPC.csproj.GenerateResource.Cache
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\obj\Debug\WPC.exe
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\obj\Debug\WPC.pdb
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\bin\Debug\WPC.exe.CodeAnalysisLog.xml
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\WPC\WPC\bin\Debug\WPC.exe.lastcodeanalysissucceeded
